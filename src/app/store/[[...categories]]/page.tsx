@@ -13,6 +13,6 @@ export default function category(props: categoryProps) {
 
     
     return(
-        <h1>category: { categories }</h1>
+        <h1>Categoria dinamíca: { categories }</h1>
     )
 }
